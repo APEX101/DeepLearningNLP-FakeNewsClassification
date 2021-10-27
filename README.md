@@ -1,10 +1,10 @@
 
 # FakeNewsClassifier-RNN,NLP
-Implemented a Deep Learning Model which classifies if a news is authentic or fake based on its title.
-Trained the Model on GoogleColab.
+
 
 ## 📝 Overview
-
+Implemented a Deep Learning Model which classifies if a news is authentic or fake based on its title.
+Trained the Model on GoogleColab.
 
 ## 🧰 Technical Aspects
 
